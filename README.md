@@ -2,4 +2,4 @@
 
 Screenshot
 
-![](images/dicee_js.png)
+![](public/images/dicee_js.png)
